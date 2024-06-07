@@ -1,13 +1,6 @@
 import { PATH_DB } from '../constants/contacts.js';
-import { faker } from '@faker-js/faker';
 import fs from 'fs/promises';
-
-export const createFakeContact = () => ({
-  name: faker.person.fullName(),
-  phoneNumber: faker.phone.number(),
-  email: faker.internet.email(),
-  job: faker.person.jobTitle(),
-});
+import { createFakeContact } from '../utils/createFakeContact.js';
 
 const generateContacts = async (number) => {
   const newContacts = [];
