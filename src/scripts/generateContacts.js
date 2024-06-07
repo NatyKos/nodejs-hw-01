@@ -2,7 +2,7 @@ import { PATH_DB } from '../constants/contacts.js';
 import { faker } from '@faker-js/faker';
 import fs from 'fs/promises';
 
-const createFakeContact = () => ({
+export const createFakeContact = () => ({
   name: faker.person.fullName(),
   phoneNumber: faker.phone.number(),
   email: faker.internet.email(),
@@ -10,7 +10,7 @@ const createFakeContact = () => ({
 });
 
 const generateContacts = async (number) => {
-  let newContacts = [];
+  const newContacts = [];
   for (let i = 0; i < number; i++) {
     newContacts.push(createFakeContact());
   }
@@ -23,4 +23,6 @@ const generateContacts = async (number) => {
   }
 };
 
-await generateContacts(5);
+await generateContacts(2);
+
+// npm run generate
