@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "name": "Shannon Maggio",
+    "phone": "567.577.7357 x19251",
+    "email": "Janiya.Franey@yahoo.com",
+    "job": "Senior Data Supervisor"
+  },
+  {
+    "name": "Henry Feest DDS",
+    "phone": "(916) 876-9749 x559",
+    "email": "Rigoberto1@gmail.com",
+    "job": "Regional Marketing Engineer"
+  },
+  {
+    "name": "Dr. Sheila Rodriguez",
+    "phone": "(406) 315-8974 x97672",
+    "email": "Ana.Roberts47@yahoo.com",
+    "job": "Senior Communications Producer"
+  },
+  {
+    "name": "Mercedes Bergnaum",
+    "phone": "828.409.6627 x43879",
+    "email": "Alena_Rodriguez@yahoo.com",
+    "job": "International Applications Architect"
+  },
+  {
+    "name": "Sonia Goldner",
+    "phone": "(352) 408-5059 x754",
+    "email": "Dayton.Homenick43@hotmail.com",
+    "job": "Corporate Group Associate"
+  }
+]
