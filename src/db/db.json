@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "name": "Kim Collins",
+    "phoneNumber": "595.220.0379 x0768",
+    "email": "Carmelo19@gmail.com",
+    "job": "Forward Assurance Assistant"
+  },
+  {
+    "name": "Miss Willie O'Hara",
+    "phoneNumber": "704-764-1342 x74693",
+    "email": "Willie_Ullrich78@yahoo.com",
+    "job": "Direct Interactions Analyst"
+  },
+  {
+    "name": "Harriet Rau",
+    "phoneNumber": "208-947-0844 x731",
+    "email": "Violet_Thiel26@yahoo.com",
+    "job": "Dynamic Usability Officer"
+  },
+  {
+    "name": "Dr. Crystal Hoppe",
+    "phoneNumber": "211.427.1536 x949",
+    "email": "Cayla20@gmail.com",
+    "job": "Senior Optimization Orchestrator"
+  },
+  {
+    "name": "Gene Nicolas",
+    "phoneNumber": "(583) 635-6519 x23614",
+    "email": "Elias19@hotmail.com",
+    "job": "Human Response Manager"
+  }
+]
